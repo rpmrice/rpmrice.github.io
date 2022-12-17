@@ -1,0 +1,15 @@
+---
+title: HALF BOIL RICE
+subtitle: அரை கொதி அரிசி
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: halfboiled-rice.jpg
+thumbnail: hbrice-thumbnail.jpg
+alt: image-alt
+project-date: Rs. 1150
+client: Rs. 46
+category: Web Development
+description: அரை கொதி அரிசி
+
+---

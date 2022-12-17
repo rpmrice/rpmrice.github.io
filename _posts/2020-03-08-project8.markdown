@@ -1,0 +1,15 @@
+---
+title: BROKEN RICE
+subtitle: உடைந்த அரிசி
+layout: default
+modal-id: 8
+date: 2014-07-15
+img: broken-rice.jpg
+thumbnail: broken-rice-thumbnail.jpg
+alt: image-alt
+project-date: Rs. 650
+client: Rs. 26
+category: Web Development
+description: உடைந்த அரிசி
+
+---

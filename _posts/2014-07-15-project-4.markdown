@@ -1,0 +1,15 @@
+---
+title: SAMBA RICE - 2nd Grade
+subtitle: சம்பா அரிசி
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: Samba-rice.jpg
+thumbnail: Samba-rice-thumbnail.jpg
+alt: image-alt
+project-date: Rs. 1850
+client: Rs. 74
+category: Web Development
+description: சம்பா அரிசி - 2nd Grade
+
+---

@@ -1,0 +1,59 @@
+url: https://rpmerchandisers.github.io/
+baseurl:
+
+# Site settings
+title: RP MERCHANDISERS
+email: VEERA.RAGAVAN.1996@GMAIL.COM
+description: "RP MERCHANDISERS - Rice Mandi"
+
+
+# Team names, titles and social links
+people:
+- name: RAJESH KUMAR L S
+  pic: 3
+  position: CHAIRMAN & SECRETARY
+  social:
+    - title: instagram
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: PRAVEEN KUMAR M
+  pic: 2
+  position: CEO
+  social:
+    - title: instagram
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: PRAVEEN KUMAR S
+  pic: 1
+  position: VICE CHAIRMAN
+  social:
+    - title: instagram
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: instagram
+    url: #
+  - title: facebook
+    url: #
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty

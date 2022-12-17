@@ -1,0 +1,15 @@
+---
+title: IR-20
+subtitle: ஐஅரஂ-20
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: ir-20.jpeg
+thumbnail: ir-20-thumbnail.jpeg
+alt: image-alt
+project-date: Rs. 850
+client: Rs. 34
+category: Web Development
+description: IR 20
+
+---

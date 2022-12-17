@@ -1,0 +1,15 @@
+---
+title: IDLY RICE
+subtitle: இட்லி அரிசி
+layout: default
+modal-id: 7
+date: 2014-07-15
+img: idly-rice.jpg
+thumbnail: idly-thumbnail.jpg
+alt: image-alt
+project-date: Rs. 870
+client: Rs. 35
+category: Web Development
+description: இட்லி அரிசி
+
+---
